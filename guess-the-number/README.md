@@ -12,4 +12,4 @@ This is a simple and fun **guess the number** game implemented in Python. The co
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/guess-the-number.git
+   git clone https://github.com/kaustav3071/guess-the-number.git
